@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:layout_alignParentLeft="true"
+	android:orientation="vertical" 
+	tools:context=".AboutActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The main goal of this system is follow all the development of your diet, comparing yours evaluations." />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This system can be used by nutrionists and personal trainer. Common people with knowledge about corporal evaluation can use it too." />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This tool was development was @rgcrocha." />
+    
+      
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CorporalEvaluation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_people">People</string>
+    <string name="title_activity_protocols">ProtocolsActivity</string>
+    <string name="title_activity_evaluation">EvaluationActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>
