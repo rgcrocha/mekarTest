@@ -9,8 +9,29 @@
     tools:context=".PeopleActivity" >
 
     <TextView
+        android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="People" />
+
+    <Button
+        android:id="@+id/bCadastrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="56dp"
+        android:text="Cadastrar" />
+
+    <Button
+        android:id="@+id/bConsultar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bCadastrar"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/bCadastrar"
+        android:layout_marginTop="24dp"
+        android:text="Consultar" />
 
 </RelativeLayout>
