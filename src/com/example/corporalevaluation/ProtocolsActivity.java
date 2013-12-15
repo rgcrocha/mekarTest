@@ -23,6 +23,7 @@ public class ProtocolsActivity extends Activity {
 	
 	public void exibirToastClick(View v){
 		Toast.makeText(this, "Botão funcionando!", Toast.LENGTH_LONG).show();
+		//
 	}
 
 }
